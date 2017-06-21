@@ -1,0 +1,26 @@
+body{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url('../imagen/linux-tux.png');
+	background-size: 50%;
+}
+.suave{
+	background-color: #888888;
+	height: 40px;
+}
+.fuerte{
+	background-color: #444444;
+	height: 40px;
+}
+table{
+	background-color: rgba(255,255,255,0.6);
+}
+a{
+	text-decoration: none;
+}
+a:visited {
+	color:green;
+}
+a:hover {
+	color:red;
+}
